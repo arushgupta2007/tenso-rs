@@ -2,6 +2,11 @@
 name = "tenso-rs"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "N Dimensional Tensors in Rust"
+homepage = "https://github.com/arushgupta2007/tenso-rs"
+repository = "https://github.com/arushgupta2007/tenso-rs"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
